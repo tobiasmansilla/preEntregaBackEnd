@@ -3,7 +3,8 @@
 import fs from 'fs';
 import {v4 as uuid} from 'uuid';
 import { __dirname } from '../path.js';
-import ProductsManager from './products.manager.js';
+import { ProductsManager } from './products.manager.js';
+
 
 // Instancias
 
